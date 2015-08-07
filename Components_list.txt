@@ -1,0 +1,6 @@
+Components list
+MCP4131 100K - around 1$
+Arduino nano v3 - around 2-3$
+Infrared Remote Control Module HX1838 (21 Keys) - around 2-3$
+IR extender 3.5mm - around 2-3$
+Steering Wheel Universal IR Remote - around 5$

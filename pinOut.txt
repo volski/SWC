@@ -1,0 +1,14 @@
+MCP4131       	ARDUINO
+pin 1		socket 3
+pin 2		socket 13
+pin 3 		socket 11
+pin 4		none
+pin 5		none
+pin 6 		to stereo key+
+pin 7 		gnd
+pin 8		none
+
+IR
+gnd
+5+
+signal		socket 6
